@@ -1,4 +1,6 @@
-### Hi there 👋
+Olá mundo! Me chamo Gabriel e atualmente sou formado em Analise de Sistemas pela Faculdade de Tecnologia de Ourinhos, aprendi muito com eles mas ainda procuro me aprodundar em varias areas e subareas de TI, como por exemplo: Inteligência Artificial, Machine Learning, Robótica, Big Data, IoT, etc. Como pode ver, sou um sonhador que quer ajudar a construir o futuro através de um simples computador.
+No momento estou apenas trabalhando como freelancer em coisas que as vezes nem são da minha area, mas estou procurando fazer parte de uma grande empresa e subir um degrau de cada vez para chegar ao topo dela, ou pelo menos quase até lá.
+Não tendo mais nada a dizer, espero que você, que está lendo meu perfil, e eu, possamos nos dar muito bem! 
 
 <!--
 **GabrielFFranco/GabrielFFRanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
