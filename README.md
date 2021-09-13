@@ -4,7 +4,7 @@ No momento estou apenas trabalhando como freelancer em coisas que as vezes nem s
 
 Você pode me encontrar no LinkedIn seguindo o link: https://www.linkedin.com/in/gabriel-ferreira-franco-855383129/
 Ou você pode me mandar uma mensagem no meu e-mail: gabriel.franco@fatec.sp.gov.br
-Prometo que vou responder o mais rapido possivel, viu?
+Prometo que vou responder o mais rapido possivel.
 
 Não tendo mais nada a dizer, espero que você, que está lendo meu perfil, e eu, possamos nos dar muito bem! 
 
