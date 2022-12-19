@@ -1,4 +1,4 @@
-Olá mundo! Me chamo Gabriel Ferreira Franco e atualmente sou formado em Analise de Sistemas pela Faculdade de Tecnologia de Ourinhos, aprendi muito com eles mas ainda procuro me aprodundar em varias areas e subareas de TI, como por exemplo: Inteligência Artificial, Machine Learning, Robótica, Big Data, IoT, etc. Como pode ver, sou um sonhador que quer ajudar a construir o futuro através de um simples computador.
+Olá mundo! Me chamo Gabriel Ferreira Franco e atualmente sou formado em Analise de Sistemas pela Faculdade de Tecnologia de Ourinhos e Pós Graduado em Inteligência Artificial pela Universidade Presbiteriana Mackenzie. Aprendi muito com eles mas ainda procuro me aprofundar em varias areas e subareas de TI.
 
 No momento estou apenas trabalhando como freelancer em coisas que as vezes nem são da minha area, mas estou procurando fazer parte de uma grande empresa e subir um degrau de cada vez para chegar ao topo dela, ou pelo menos quase até lá. Um dos meus passatempos é resolver competições no Kaggle, você pode ver os códigos que criei aqui mesmo no github ou em meu kaggle.
 
